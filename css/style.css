@@ -23,12 +23,12 @@
 }
 
 /* Estilo Desktop */
-body {
+body{
     background-color: #0E1014;
     color: #fff; 
 }
 
-header img {
+header img{
     display: block;
     margin: 75px 0 0 360px;
 }
@@ -80,6 +80,7 @@ section img {
 }
 
 @media(max-width: 768px) {
+    
     header img {
         margin:65px 0 0 60px;
       
@@ -92,7 +93,7 @@ section img {
 
 @media(max-width: 375px) {
     header img {
-        margin: 24px 0 0 17px;
+        margin: 32px 0 0 16px;
         
     }
     h1{
@@ -107,7 +108,7 @@ section img {
     }
     a{
         font-size: 20px;
-        width: 250px;
+        width: 251px;
         
         
     }
